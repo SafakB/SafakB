@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Safak</h1>
 <h3 align="center">I am an open source code developer</h3>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SafakB/SafakB/main/assets/github-profile.png" align="center" alt="github-safak-profil" width="100%">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/safakbahce" target="blank">
